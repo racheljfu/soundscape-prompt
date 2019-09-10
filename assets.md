@@ -23,10 +23,10 @@
 	2. Possibly record a phone call to get a different sound than normal (w/permission of course) 
 
 ## REPURPOSED ASSETS
-** Music **
+**Music**
 * Faraway, summery, whimsical-sounding music
 	1. I was thinking of a sound like some songs by The Beach Boys or Gorillaz (but look at royalty-free stuff) 
 	2. Music will be edited to sound more like it's in the background / muffled (most likely)
 	
-** Voicemails / video clips from friends / other voices **
+**Voicemails / video clips from friends / other voices**
 * Will ask permission, as mentioned in Created Assets section
