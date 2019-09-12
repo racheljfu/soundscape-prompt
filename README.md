@@ -11,7 +11,7 @@ My soundscape narrative will focus on the concept of homesickness and lonesomene
 
 **Some details about the narrative:**
 * I'll act as the main character of the narrative, a new student (supposedly at Pitt).
-* The narrator will start off feeling totally alone, preoccupied with the loneliness of the city and memories of home. 
+* The narrator will start off feeling totally alone, preoccupied with the lonesomeness of the city and memories of home. 
 * Over time, she will connect with her environment more positively by channeling the happiness of her past into the present. 
 * In the end, she'll be more in-tune and content with her surroundings. 
 
