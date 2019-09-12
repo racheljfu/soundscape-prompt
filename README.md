@@ -1,7 +1,7 @@
 # Soundscape Narrative
 Rachel Wonder
 
-##Just some thoughts
+## Just some thoughts
 **My title (as of now):** Pittsburgh's Not My Home
 
 My soundscape narrative will focus on the concept of homesickness and lonesomeness in an urban environment: 

@@ -5,11 +5,12 @@
 **Street sounds** 
 * vehicles coming and going, traffic signals, chatter, people ordering food, the wind, etc. 
 * riding the bus: "stop requested," tapping card to pay, people moving around, driving sounds
-	1. Go outside, walk around, and record these (relatively easy to do)
+	
 **Dorm sounds** 
 * faucets dripping, opening the window, washing dishes, doors creaking. 
 ** TO RECORD: fan/air conditioning in the dorm, more??
 	1. Go to my dorm and record these (pretty easy, don't need permission from anyone)
+	
 **Old sound recordings from home**
 * Friends laughing, playing instruments, dogs barking, anything else I can find
 	1. **TO DO: convert to .wav from .m4a and .mp4 to add to soundscape 
