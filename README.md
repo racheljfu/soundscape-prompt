@@ -16,9 +16,5 @@ My soundscape narrative will focus on the concept of homesickness and lonesomene
 * In the end, she'll be more in-tune and content with her surroundings. 
 
 **The main types of sounds to be used (very generally):**
-* City sounds
-* Suburban sounds
-* Voices - people talking to themselves and each other
-* Music (possibly?)
-See assets.md for more detail!!!
+* See assets.md for more detail!!!
 
