@@ -1,15 +1,12 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="RachelWonder_SoundscapeNarrative_data" version="1.3.0" audacityversion="2.2.2" sel0="133.4507324670" sel1="133.4507324670" vpos="1616" h="77.9466132211" zoom="9.1344571698" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="RachelWonder_SoundscapeNarrative_data" version="1.3.0" audacityversion="2.2.2" sel0="100.6080583570" sel1="100.6080583570" vpos="1856" h="0.0000000000" zoom="9.1344571698" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
-		<tag name="TITLE" value="In the clouds (ft. Javolenus)"/>
-		<tag name="ARTIST" value="Stefan Kartenberg"/>
-		<tag name="Copyright message" value="2019 Stefan Kartenberg Licensed to the public under http://creativecommons.org/licenses/by-nc/3.0/ Verify at http://ccmixter.org/files/JeffSpeed68/59123"/>
-		<tag name="Original artist(s)" value="Javolenus"/>
+		<tag name="ARTIST" value="Rachel Wonder"/>
+		<tag name="TITLE" value="at the walk sign, please record your message"/>
+		<tag name="ALBUM" value="ENGCMP 0610"/>
 		<tag name="YEAR" value="2019"/>
-		<tag name="ALBUM" value="ccMixter"/>
-		<tag name="Interpreted, remixed, or otherwise modified by" value="Stefan Kartenberg"/>
-		<tag name="Software" value="Lavf58.27.103"/>
+		<tag name="Original artist(s)" value="See CREDITS.md for sounds used with permission / license"/>
 	</tags>
 	<wavetrack name="quiet water" channel="0" linked="1" mute="0" solo="0" height="70" minimized="1" isSelected="0" rate="44100" gain="1.995262" pan="-1.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
@@ -1139,7 +1136,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="car noises" channel="0" linked="1" mute="0" solo="0" height="74" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="car noises" channel="0" linked="1" mute="0" solo="0" height="74" minimized="1" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="101.37437642" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="1306496">
 				<waveblock start="0">
@@ -1161,7 +1158,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="car noises" channel="1" linked="0" mute="0" solo="0" height="74" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="car noises" channel="1" linked="0" mute="0" solo="0" height="74" minimized="1" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="101.37437642" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="1306496">
 				<waveblock start="0">
@@ -1241,7 +1238,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="rinsing dishes 182341" channel="0" linked="1" mute="0" solo="0" height="63" minimized="1" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="rinsing dishes 182341" channel="0" linked="1" mute="0" solo="0" height="63" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="102.89037500" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="2524166">
 				<waveblock start="0">
@@ -1281,7 +1278,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="rinsing dishes 182341" channel="1" linked="0" mute="0" solo="0" height="63" minimized="1" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="rinsing dishes 182341" channel="1" linked="0" mute="0" solo="0" height="63" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="102.89037500" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="2524166">
 				<waveblock start="0">
