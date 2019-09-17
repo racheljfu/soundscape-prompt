@@ -3,6 +3,8 @@
 
 My preview that's attached in this repository serves to introduce the life of the narrator.
 As I've briefly in my readme and assets files,
+** As of: the week of September 9
+
 ** my soundscape narrative is going to...
 * follow a new student (presumably at Pitt)
 * who is feeling totally alone, 

@@ -1,20 +1,27 @@
 # Soundscape Narrative
 Rachel Wonder
 
-## Just some thoughts
-**My title (as of now):** Pittsburgh's Not My Home
+##My title:
+**at the walk sign, please record your message**
 
-My soundscape narrative will focus on the concept of homesickness and lonesomeness in an urban environment: 
-* How can one feel alone amidst so many people and sounds? 
-* How does homesickness manifest in everyday life? 
-* How does one mediate that loneliness? 
+--
 
-**Some details about the narrative:**
-* I'll act as the main character of the narrative, a new student (supposedly at Pitt).
-* The narrator will start off feeling totally alone, preoccupied with the lonesomeness of the city and memories of home. 
-* Over time, she will connect with her environment more positively by channeling the happiness of her past into the present. 
-* In the end, she'll be more in-tune and content with her surroundings. 
+** Some concepts and ideas I play with in the soundscape: 
+* solitude
+* monotony
+* waiting / expectations
+* memory
+* telephone as means of communication
+* intermingling of past / present experience
 
-**The main types of sounds to be used (very generally):**
-* See assets.md for more detail!!!
+**Basic summary of the narrative:**
+* The main character (presumably Rachel herself) starts off in a (run-down?) dorm, eating alone, and placing a phone call. 
+* As she leaves the dorm and walks out onto the street, she finds that her call is unanswered. 
+* "What AM I waiting for?" 
+* After waiting a bit, she takes a 71D.
+* She starts to remember all the people who have left her voicemails, and other instances of her home. 
+* Set to the tune of airy music and the lull of the bus, she eventually comes back to her dorm, and understands she is loved.
+
+
+** Please see assets.md and CREDITS.md for more information!
 
