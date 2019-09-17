@@ -1,12 +1,12 @@
 # Soundscape Narrative
 Rachel Wonder
 
-##My title:
+## My title:
 **at the walk sign, please record your message**
 
 --
 
-** Some concepts and ideas I play with in the soundscape: 
+**Some concepts and ideas I play with in the soundscape:**
 * solitude
 * monotony
 * waiting / expectations
@@ -23,5 +23,5 @@ Rachel Wonder
 * Set to the tune of airy music and the lull of the bus, she eventually comes back to her dorm, and understands she is loved.
 
 
-** Please see assets.md and CREDITS.md for more information!
+**Please see assets.md and CREDITS.md for more information!
 
