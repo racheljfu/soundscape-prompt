@@ -1,6 +1,6 @@
 ## CREDITS / PERMISSIONS
 
-##Music / miscellaneous audio
+## Music / miscellaneous audio
 **Clip from "In The Clouds" by Stefan Kartenberg 
 		i. Find in soundscape from 1:12-end
 		ii. Used under CC-BY-NC
@@ -9,7 +9,7 @@
 		i. Used with permission from Ben
 		ii. Find in soundscape around 26 second mark
 		
-##Voicemails / video
+## Voicemails / video
 **A list of my friends and family. With their permission, I have incorporated their voicemails on my 
 **personal cell phone into my soundscape. 
 	1. Floey Z. (appears in 1:15-1:39)
