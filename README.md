@@ -23,5 +23,5 @@ Rachel Wonder
 * Set to the tune of airy music and the lull of the bus, she eventually comes back to her dorm, and understands she is loved.
 
 
-**Please see assets.md and CREDITS.md for more information!
+**Please see assets.md and CREDITS.md for more information!**
 
