@@ -1,5 +1,5 @@
 # ASSETS PAGE: Rachel Wonder
-**All sounds have been recorded (by me) unless stated otherwise (as of 9/16/2019)**
+**All sounds have been recorded (by me) unless stated otherwise (as of 9/19/2019)**
 * See CREDITS.md for more information on repurposed assets
 
 ## CREATED ASSETS
@@ -52,3 +52,4 @@
 **Voicemails / video clips from friends and family**
 * Floey, Zac, Josh, Michelle, Daniel, plus my mom and my grandparents
 **Mystery sound**
+* See CREDITS.md for more information on repurposed assets

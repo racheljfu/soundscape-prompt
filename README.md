@@ -20,7 +20,7 @@ Rachel Wonder
 * "What AM I waiting for?" 
 * After waiting a bit, she takes a 71D.
 * She starts to remember all the people who have left her voicemails, and other instances of her home. 
-* Set to the tune of airy music and the lull of the bus, she eventually comes back to her dorm, and understands she is loved.
+* Set to the tune of airy music and the lull of the bus, she eventually comes back to her dorm, feeling a greater sense of community.
 
 
 **Please see assets.md and CREDITS.md for more information!**
