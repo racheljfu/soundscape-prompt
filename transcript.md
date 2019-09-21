@@ -1,4 +1,9 @@
-````                                                      ## A TRANSCRIPT of: 
+````                                                      
+**NOTE: Given the nature of this soundscape I found it difficult to make a transcript that both
+captured its layers and was accessible on Github, so this is what I settled with. You
+can scroll back and forth to see both sides of the transcript as well as zoom out, if that's easier. 
+	
+							   ## A TRANSCRIPT of: 
                                          ** at the walk sign, please record your message
 							   * by Rachel Wonder
 
